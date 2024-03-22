@@ -1,0 +1,12 @@
+.container_articles{
+    display: flex;
+    flex-direction: row;
+    margin-top: 1.2rem;
+    justify-content: space-evenly;
+}
+
+header{
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 1rem;
+}

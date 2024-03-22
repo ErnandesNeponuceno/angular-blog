@@ -1,0 +1,19 @@
+.container__small-card{
+    border: solid #fff 1px;
+    width: 600px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 1rem;
+    padding: .625rem;
+}
+
+.small-card__img img {
+    width: 200px;
+    margin-right: 20px;
+}
+
+.small-card__title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
